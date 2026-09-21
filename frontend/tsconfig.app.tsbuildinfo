@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/JsonPanel.tsx","./src/components/MaterialsEditor.tsx","./src/components/NumberInput.tsx","./src/components/ResultView.tsx","./src/components/TargetEditor.tsx"],"version":"5.9.3"}
